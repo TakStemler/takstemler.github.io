@@ -1,6 +1,6 @@
 {
-    "name": "fun_me",
-    "short_name": "fun_me",
+    "name": "fun_me_final",
+    "short_name": "fun_me_final",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
