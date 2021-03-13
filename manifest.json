@@ -1,11 +1,11 @@
 {
-    "name": "fun_me_final",
-    "short_name": "fun_me_final",
+    "name": "Fun.ME",
+    "short_name": "Fun.ME",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Divirta o seu navegador",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
