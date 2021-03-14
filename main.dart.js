@@ -58403,7 +58403,7 @@ s=B.acy(C.o,38)
 s=T.a8S(n,n,C.c7,!0,n,new Q.d8("FUN",H.b([new Q.d8(".ME",n,B.acy(C.e1.h(0,400),38))],t.ru),s),C.ab,n,n,1,C.aI)
 r=T.k5(n,50,n)
 q=t.fQ
-p=T.A8(H.b([o.As(o.d,C.zG,"Seu e-mail","mail",20,!0,!1),T.k5(n,20,n),o.As(o.e,C.zE,"Sua Senha","pass",20,!0,!0),T.k5(n,20,n)],q),C.cs,C.e_,C.cH)
+p=T.A8(H.b([o.As(o.d,C.zG,"Seu e-mail","mail",64,!0,!1),T.k5(n,20,n),o.As(o.e,C.zE,"Sua Senha","pass",20,!0,!0),T.k5(n,20,n)],q),C.cs,C.e_,C.cH)
 return M.adQ(M.bY(n,T.h5(M.bY(n,new T.hu(new V.aD(50,20,50,20),T.A8(H.b([s,r,new A.rz(p,C.di,o.f),o.Xf()],q),C.cs,C.fN,C.cH),n),n,new S.e5(C.j,n,n,new K.cl(new P.bl(30,30),new P.bl(30,30),new P.bl(30,30),new P.bl(0,0)),m,n,C.a0),500,n,n,350),n,n),n,new S.e5(n,new X.Ar(new L.dt("papel_de_parede_carinhas.png"),C.io),n,n,n,n,C.a0),n,n,n,n))}}
 F.a36.prototype={
 $1:function(a){var s,r

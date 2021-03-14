@@ -1,6 +1,6 @@
 {
-    "name": "Fun.ME",
-    "short_name": "Fun.ME",
+    "name": "Fun.me",
+    "short_name": "Fun.me",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
