@@ -38,7 +38,12 @@ Run flutter build apk --split-per-abi
 ## Usabilidade
 A aplicação inicia na tela de login onde você deve fazer o acesso com o seu e-mail e senha, a primeira tela é o um icon representando Poker-Face, assim que ele é "incomodado" com o seu clique ele fica triste. Clicando novamente é recebido um modal contendo várias piadas, à medida que você clica no botão de Laugh, o rosto vai rindo com você até atingir o ápice da felicidade e fechar o modal. O rosto continua feliz até ser "incomodado" novamente com o seu clique, repetindo o ciclo de emoções. 
 
+## Considerações
+Duas das tecnologias sugeridas não foram utilizadas por motivos especificos:
 
+- Docker: Substituida pelo GitHub.Pages, a plataforma de instalação Docker não foi utilizada devido a  facilidade de instalação e visualização do projeto disponibilizada pelo GitHub.Pages, outro motivo decisivo para a utilização dessa plataforma foi a visualização do projeto em ambiente Web pleno. 
+
+- Rotas: As rotas solicitadas pelo desafio não foram utilizadas por motivos de otimização do projeto, a linguagem Flutter parte de uma configuração assíncrona, onde podemos gerar animações e funcionalidades dentro de um mesmo arquivo, assim aumentando a velocidade de carregamento e gerenciando melhor o tamanho da aplicação. 
 
 ## License
 [Felipe Stemler](https://www.linkedin.com/in/felipe-henrique-stemler-gomes-6a88ab1a2/)
