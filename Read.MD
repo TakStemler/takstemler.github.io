@@ -36,7 +36,7 @@ Run flutter build apk --split-per-abi
 ```
 
 ## Usabilidade
-A aplicação inicia na tela de login onde você deve fazer o acesso com o seu e-mail e senha, a primeira tela é o um icon representando Poker-Face, assim que ele é "incomodado" com o seu clique ele fica triste. Clicando novamente é recebido um modal contendo várias piadas, à medida que você clica no botão de Laugh, o rosto vai rindo com você até atingir o ápice da felicidade e fechar o modal. O rosto continua feliz até ser "incomodado" novamente com o seu clique, repetindo o ciclo de emoções. 
+A aplicação inicia na tela de login onde você deve fazer o acesso um e-mail e senha de sua escolha, a primeira tela é um icon representando Poker-Face, assim que ele é "incomodado" com o seu clique ele fica triste. Clicando novamente é recebido um modal contendo várias piadas, à medida que você clica no botão de Laugh, o rosto vai rindo com você até atingir o ápice da felicidade e fechar o modal. O rosto continua feliz até ser "incomodado" novamente com o seu clique, repetindo o ciclo de emoções. 
 
 ## Considerações
 Duas das tecnologias sugeridas não foram utilizadas por motivos especificos:
